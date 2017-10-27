@@ -1,0 +1,11 @@
+*.swp
+*.o
+*.a
+*.i
+build/
+!*.hh
+!*.hpp
+!*.hxx
+!*.cc
+!*.cpp
+!*.cxx
